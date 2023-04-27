@@ -130,7 +130,7 @@ class _OnBoardingScreenState extends State<OnBoardingScreen> {
             ),
           ),
           Text(
-            '日本語を学びましょう 日本語を学びましょう',
+            '日本語を学びましょう',
             style: const TextStyle(
               fontSize: 18,
               fontWeight: FontWeight.bold,
