@@ -39,7 +39,7 @@ class HomePage extends StatelessWidget {
             },
             color: Color(0xffF9E2AF),
             text: 'Numbers',
-            w: 90,
+            w: 150,
             image:
                 'https://assets3.lottiefiles.com/private_files/lf30_khak9ubl.json',
           ),
